@@ -1,0 +1,15 @@
+/Users/macuser/Desktop/homework/№2/bin/Debug/net6.0/№2
+/Users/macuser/Desktop/homework/№2/bin/Debug/net6.0/№2.deps.json
+/Users/macuser/Desktop/homework/№2/bin/Debug/net6.0/№2.runtimeconfig.json
+/Users/macuser/Desktop/homework/№2/bin/Debug/net6.0/№2.dll
+/Users/macuser/Desktop/homework/№2/bin/Debug/net6.0/№2.pdb
+/Users/macuser/Desktop/homework/№2/obj/Debug/net6.0/№2.csproj.AssemblyReference.cache
+/Users/macuser/Desktop/homework/№2/obj/Debug/net6.0/№2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macuser/Desktop/homework/№2/obj/Debug/net6.0/№2.AssemblyInfoInputs.cache
+/Users/macuser/Desktop/homework/№2/obj/Debug/net6.0/№2.AssemblyInfo.cs
+/Users/macuser/Desktop/homework/№2/obj/Debug/net6.0/№2.csproj.CoreCompileInputs.cache
+/Users/macuser/Desktop/homework/№2/obj/Debug/net6.0/№2.dll
+/Users/macuser/Desktop/homework/№2/obj/Debug/net6.0/refint/№2.dll
+/Users/macuser/Desktop/homework/№2/obj/Debug/net6.0/№2.pdb
+/Users/macuser/Desktop/homework/№2/obj/Debug/net6.0/№2.genruntimeconfig.cache
+/Users/macuser/Desktop/homework/№2/obj/Debug/net6.0/ref/№2.dll
